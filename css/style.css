@@ -305,8 +305,7 @@ hr {
 .Footer_a{  
   font-size: 20px;
   display:flex;
-  padding: 50px;
-  
+  padding: 50px; 
 }
 .Footer_a p{
 font-size: 30px;
@@ -318,6 +317,18 @@ padding-bottom: 30px;
 .Footer2{
 width:33.3%;
 padding-right: 30px;
+}
+.Footer3 i{
+  padding-right: 10px;
+}
+.Footer4{
+  padding-bottom: 20px;
+}
+.footer{
+  padding-bottom: 10px;
+}
+.F_li{
+  padding-bottom: 20px;
 }
 .HR{
   padding:30px;
